@@ -5,7 +5,7 @@ public:
 
         int candy = 0;
         for(int i = 0 ; i < cost.size() ; i++) {
-            if( i % 3 != 2) {
+            if( (i+1) % 3 != 0) {
                 candy += cost[i];
             }
         }
