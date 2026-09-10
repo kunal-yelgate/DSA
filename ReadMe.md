@@ -11,12 +11,14 @@ A personal collection of solved coding problems, organized by difficulty for qui
 - [🔴 Hard](#-hard)
 
 ## 🟢 Easy
-
 | # | Problem | Solution |
 |---|---------|----------|
 | 1 | Two Sum | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1-two-sum) |
+| 9 | Palindrome Number | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/9-palindrome-number) |
 | 13 | Roman to Integer | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/13-roman-to-integer) |
+| 20 | Valid Parentheses | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/20-valid-parentheses) |
 | 26 | Remove Duplicates From Sorted Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/26-remove-duplicates-from-sorted-array) |
+| 27 | Remove Element | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/27-remove-element) |
 | 28 | Find the Index of the First Occurrence in a String | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/28-find-the-index-of-the-first-occurrence-in-a-string) |
 | 35 | Search Insert Position | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/35-search-insert-position) |
 | 66 | Plus One | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/66-plus-one) |
@@ -45,10 +47,12 @@ A personal collection of solved coding problems, organized by difficulty for qui
 | 792 | Binary Search | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/792-binary-search) |
 | 1013 | Fibonacci Number | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1013-fibonacci-number) |
 | 1019 | Squares of a Sorted Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1019-squares-of-a-sorted-array) |
+| 1078 | Remove Outermost Parentheses | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1078-remove-outermost-parentheses) |
 | 1231 | Replace Elements with Greatest Element on Right Side | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1231-replace-elements-with-greatest-element-on-right-side) |
 | 1256 | Rank Transform of an Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1256-rank-transform-of-an-array) |
 | 1297 | Maximum Number of Balloons | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1297-maximum-number-of-balloons) |
 | 1603 | Running Sum of 1d Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1603-running-sum-of-1d-array) |
+| 1614 | Maximum Nesting Depth of the Parentheses | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses) |
 | 1833 | Find the Highest Altitude | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1833-find-the-highest-altitude) |
 | 1878 | Check If Array is Sorted and Rotated | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1878-check-if-array-is-sorted-and-rotated) |
 | 2058 | Concatenation of Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/2058-concatenation-of-array) |
@@ -58,18 +62,22 @@ A personal collection of solved coding problems, organized by difficulty for qui
 | 2746 | Filter Elements From Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/2746-filter-elements-from-array) |
 | 2752 | Sum Multiples | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/2752-sum-multiples) |
 | 2809 | Create Hello World Function | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/2809-create-hello-world-function) |
+| 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| 3349 | Maximum Length Substring with Two Occurrences | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3349-maximum-length-substring-with-two-occurrences) |
 | 3428 | Find the Xor of Numbers Which Appear Twice | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3428-find-the-xor-of-numbers-which-appear-twice) |
+| 3705 | Find the Largest Almost Missing Integer | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3705-find-the-largest-almost-missing-integer) |
+| 3918 | Check Divisibility by Digit Sum and Product | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3918-check-divisibility-by-digit-sum-and-product) |
 | 3965 | Earliest Finish Time For Land and Water Rides I | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3965-earliest-finish-time-for-land-and-water-rides-i) |
-
 ## 🟡 Medium
-
 | # | Problem | Solution |
 |---|---------|----------|
+| 3 | Longest Substring Without Repeating Characters | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3-longest-substring-without-repeating-characters) |
 | 7 | Reverse Integer | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/7-reverse-integer) |
 | 8 | String to Integer (atoi) | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/8-string-to-integer-atoi) |
 | 11 | Container with Most Water | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/11-container-with-most-water) |
 | 12 | Integer to Roman | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/12-integer-to-roman) |
 | 15 | 3sum | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/15-3sum) |
+| 16 | 3Sum Closest | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/16-3sum-closest) |
 | 33 | Search in Rotated Sorted Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/33-search-in-rotated-sorted-array) |
 | 39 | Combination Sum | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/39-combination-sum) |
 | 46 | Permutations | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/46-permutations) |
@@ -83,28 +91,28 @@ A personal collection of solved coding problems, organized by difficulty for qui
 | 162 | Find Peak Element | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/162-find-peak-element) |
 | 189 | Rotate Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/189-rotate-array) |
 | 238 | Product of Array Except Self | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/238-product-of-array-except-self) |
+| 260 | Single Number III | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/260-single-number-iii) |
 | 287 | Find the Duplicate Number | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/287-find-the-duplicate-number) |
 | 560 | Subarray Sum Equals K | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/560-subarray-sum-equals-k) |
 | 713 | Subarray Product Less Than K | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/713-subarray-product-less-than-k) |
 | 948 | Sort an Array | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/948-sort-an-array) |
 | 1046 | Max Consecutive Ones III | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1046-max-consecutive-ones-iii) |
 | 1446 | Angle Between Hands of a Clock | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1446-angle-between-hands-of-a-clock) |
+| 1737 | Maximum Nesting Depth of the Parentheses | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1737-maximum-nesting-depth-of-the-parentheses) |
 | 1961 | Maximum Ice Cream Bars | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1961-maximum-ice-cream-bars) |
 | 1968 | Maximum Building Height | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/1968-maximum-building-height) |
 | 3931 | Process String with Special Operations I | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3931-process-string-with-special-operations-i) |
 | 3962 | Number of Zigzag Arrays I | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3962-number-of-zigzag-arrays-i) |
+| 4033 | Longest Subsequence with Non-zero Bitwise XOR | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4074 | Count Subarrays with Majority Element I | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/4074-count-subarrays-with-majority-element-i) |
 | 4216 | Weighted Word Mapping | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/4216-weighted-word-mapping) |
-
+| 4248 | Count Commas in Range II | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/4248-count-commas-in-range-ii) |
 ## 🔴 Hard
-
 | # | Problem | Solution |
 |---|---------|----------|
 | 42 | Trapping Rain Water | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/42-trapping-rain-water) |
+| 2156 | Stone Game IX | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/2156-stone-game-ix) |
 | 3939 | Process String with Special Operations II | [🔗 View](https://github.com/kunal-yelgate/DSA/tree/main/3939-process-string-with-special-operations-ii) |
-
----
-
 ## 📂 How this repo is organized
 
 Each problem lives in its own folder named `<problem-number>-<problem-slug>`, containing the solution file and (where relevant) notes on the approach.
